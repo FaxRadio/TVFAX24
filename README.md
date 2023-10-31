@@ -1,5 +1,3 @@
-# TVFAX24
-TVFAX24
 #EXTM3U 
 
 #EXTM3U url-tvg=" http://grade-de-ALEX Radio FAX Deus Sempre Presente.xml "
